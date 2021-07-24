@@ -16,7 +16,7 @@ Currently running without null safety.
 Clone the project
 
 ```bash
-  git clone https://
+  git clone https://github.com/Vyshnav-KS/Daily-Do.git
 ```
 
 Go to the project directory
